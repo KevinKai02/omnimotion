@@ -16,7 +16,7 @@ PyTorch Implementation for paper [Tracking Everything Everywhere All at Once]((h
 ## Installation
 The code is tested with `python=3.8` and `torch=1.10.0+cu111` on an A100 GPU.
 ```
-git clone --recurse-submodules https://github.com/qianqianwang68/omnimotion/
+git clone --recurse-submodules https://github.com/KevinKai02/omnimotion/
 cd omnimotion/
 conda create -n omnimotion python=3.8
 conda activate omnimotion
